@@ -1,4 +1,5 @@
-#### Title  *A Report on video game to encourage university student to do the set readings*.
+#### Module Code: CS1SE17
+#### Title *My Learning Plan*.
 #### Individual Learning Plan Report
 #### Submitted By: Shavin Croos (27015244)
 #### Date (when the work completed): 14th of November 2019.
