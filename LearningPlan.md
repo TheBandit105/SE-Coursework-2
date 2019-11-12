@@ -3,7 +3,7 @@
 #### Individual Learning Plan Report
 #### Submitted By: Shavin Croos (27015244)
 #### Date (when the work completed): 14th of November 2019.
-#### Actual hrs spent for the assignment: 
+#### Actual hrs spent for the assignment: TBD
 
 
 
