@@ -43,8 +43,8 @@ A WBS displays the objective and the sub-tasks in a hierarchal manner to see whi
 ![Inline image]( Gantt Chart for BSc Computer Science with Industrial Year.png)
 
 
-For the WBS, I used a software called Visual Paradigm as that software allowed for the automatic formatting of the nodes of the WBS and the space to create the WBS in. I initially used the software called Planhammer to create my WBS, but I found that this software was very difficult to use and was not user-friendly at all.
-I used a software called Office Timeline to create my Gantt Chart as it was quite easy to use and you could set the beginning date at any point in time, even after the start date had been passed. Like before, I had used Planhammer to create my WBS, but the software did not allow me to go to the original start date for the degree I was doing and it only allowed me to start on the current day.
+For the WBS, I used a software called Visual Paradigm as that software allowed for the automatic formatting of the nodes of the WBS and the space to create the WBS in. I initially used the software called Planhammer to create my WBS, but I found that this software was very difficult to use and was not user-friendly at all. The problem with Planhammer was the fact the the user could not easily format the nodes in the places they wanted them to be. This made creating the WBS even more time consuming than it already was. Also, the nodes got in the way of each other and made the WBS very untidy.
+I used a software called Office Timeline to create my Gantt Chart as it was quite easy to use and you could set the beginning date at any point in time, even after the start date had been passed. Like before, I had used Planhammer to create my WBS, but the software did not allow me to go to the original start date for the degree I was doing and it only allowed me to start on the current day. Visual Paradigm did not have a feature where you could create a Gantt chart and so was one of the reasons why I switched to Office Timeline.
 
 #### 3 Reflection
 
