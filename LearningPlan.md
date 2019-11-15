@@ -13,13 +13,15 @@
 
    1.2 Abstract ...............................................................
    
-2 Graphs .......................................................2
+2 Charts .......................................................2
 
-      Justifications for using graphs  .................................
+      Justifications for using charts  .................................
  
 3. Reflection ...............................................................3
 
 4. Appendix A - CV ..........................................................4
+
+5. Bibliography .............................................................5
 ````
 
 #### 1.1 Introduction and Background
@@ -34,10 +36,24 @@ The second chart to be created is called a Gantt chart. Also known as a harmonog
 
 A WBS displays the objective and the sub-tasks in a hierarchal manner to see which parts of the work need to be done. The WBS does not show the flow of time. The Gantt chart shows the sub-tasks in the form of a horizontal bar graph that shows the time needed to complete every task on the chart. The WBS is very good for spotting incomplete parts of the work tree. It also can be used as a template for creating more work management plans for other projects like the one being done. However, the WBS is not work environment friendly as it may cause tensions between the manager of the group and the teammates through micromanagement. The Gantt is very easy to visualise and use without problem. The progress of each sub-task can be seen easily by the manager of the group. Time can be represented better on the Gantt chart than it can on a WBS diagram. However, the Gantt chart takes a long time to develop and manage. Also, with a bigger project, not all the tasks listed will be easily seen and so some of the tasks’ progress may not be recognised as well as it could have been.  
 
-#### 2.1
+#### 2 Charts
 
 
-#### 2.2
+
 
 For the WBS, I used a software called Visual Paradigm as that software allowed for the automatic formatting of the nodes of the WBS and the space to create the WBS in. I initially used the software called Planhammer to create my WBS, but I found that this software was very difficult to use and was not user-friendly at all.
 I used a software called Office Timeline to create my Gantt Chart as it was quite easy to use and you could set the beginning date at any point in time, even after the start date had been passed. Like before, I had used Planhammer to create my WBS, but the software did not allow me to go to the original start date for the degree i was doing and it only allowed me to start on the current day.
+
+#### 3 Reflection
+
+What this task has taught me is that there are many ways to organise your work depa
+
+#### 4 Appendix A - CV
+
+See Appendix A
+
+#### 5 Bibliography
+
+https://content.wisestep.com/work-breakdown-structure-advantages-disadvantages/
+https://analysistabs.com/gantt-chart/advantages-disadvantages/
+https://project-management.com/advantages-and-disadvantages-of-gantt-charts/
