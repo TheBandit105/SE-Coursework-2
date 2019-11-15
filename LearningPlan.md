@@ -40,7 +40,7 @@ A WBS displays the objective and the sub-tasks in a hierarchal manner to see whi
 
 ![Inline image]( UoR Computer Science with IY WBS (FINAL).vpd.png)
 
-![Inline image]()
+![Inline image]( Gantt Chart for BSc Computer Science with Industrial Year.png)
 
 
 For the WBS, I used a software called Visual Paradigm as that software allowed for the automatic formatting of the nodes of the WBS and the space to create the WBS in. I initially used the software called Planhammer to create my WBS, but I found that this software was very difficult to use and was not user-friendly at all.
