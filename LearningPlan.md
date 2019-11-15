@@ -55,5 +55,7 @@ See Appendix A
 #### 5 Bibliography
 
 https://content.wisestep.com/work-breakdown-structure-advantages-disadvantages/
+
 https://analysistabs.com/gantt-chart/advantages-disadvantages/
+
 https://project-management.com/advantages-and-disadvantages-of-gantt-charts/
