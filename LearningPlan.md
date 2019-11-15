@@ -6,7 +6,6 @@
 #### Actual hrs spent for the assignment: 20 hours
 
 
-
 #### Contents
 ````s
 1.1 Introduction and Background ...............................................................1
