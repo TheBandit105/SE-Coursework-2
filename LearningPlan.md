@@ -39,19 +39,17 @@ A WBS displays the objective and the sub-tasks in a hierarchal manner to see whi
 #### 2 Charts
 
 
-
-
 For the WBS, I used a software called Visual Paradigm as that software allowed for the automatic formatting of the nodes of the WBS and the space to create the WBS in. I initially used the software called Planhammer to create my WBS, but I found that this software was very difficult to use and was not user-friendly at all.
-I used a software called Office Timeline to create my Gantt Chart as it was quite easy to use and you could set the beginning date at any point in time, even after the start date had been passed. Like before, I had used Planhammer to create my WBS, but the software did not allow me to go to the original start date for the degree i was doing and it only allowed me to start on the current day.
+I used a software called Office Timeline to create my Gantt Chart as it was quite easy to use and you could set the beginning date at any point in time, even after the start date had been passed. Like before, I had used Planhammer to create my WBS, but the software did not allow me to go to the original start date for the degree I was doing and it only allowed me to start on the current day.
 
 #### 3 Reflection
 
 What this task has taught me is that there are many ways to organise your work depending on your needs and the extra activities you do outside of work. This has helped me to reinforce the idea about the work-life balance. Furthermore, this task has shown insight as to how software development teams work and how they organise themselves so that the tasks are done to the time limit. It goes to show that work at university has to be more well-managed than at school, meaning you need to find the information you want to know about to help complete certain tasks.
-The task also shows that not everything is as it seems as even creating something simple as WBS and Gantt graphs requires time and effort to be able to do. In addition to this, these things are not static and so would be tedious to do constantly.  
+The task also shows that not everything is as it seems as even creating something simple as WBS and Gantt graphs requires time and effort to be able to do. In addition to this, these things are not static and so would be tedious to do constantly. Moreover, this task teaches you why certain people skills such as teamwork and communication skills are really vital in the work environment. Without those skills, the tasks and jobs would not be completed to the standard expected by the company as a whole. The task also proves that the unexpected can happen at any time and at anyplace. For example, a software could suddenly crash when you least expect it and it would be up to you to come up with a solution quickly as possible. The task tells us if one part works together well with the others, then the outcome will be rewarding. If this doesn’t happen, it could put the entire project at risk and the other teammates at risk at stalling because of a part falling short.
 
 #### 4 Appendix A - CV
 
-See Appendix A
+
 
 #### 5 Bibliography
 
