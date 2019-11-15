@@ -46,7 +46,8 @@ I used a software called Office Timeline to create my Gantt Chart as it was quit
 
 #### 3 Reflection
 
-What this task has taught me is that there are many ways to organise your work depa
+What this task has taught me is that there are many ways to organise your work depending on your needs and the extra activities you do outside of work. This has helped me to reinforce the idea about the work-life balance. Furthermore, this task has shown insight as to how software development teams work and how they organise themselves so that the tasks are done to the time limit. It goes to show that work at university has to be more well-managed than at school, meaning you need to find the information you want to know about to help complete certain tasks.
+The task also shows that not everything is as it seems as even creating something simple as WBS and Gantt graphs requires time and effort to be able to do. In addition to this, these things are not static and so would be tedious to do constantly.  
 
 #### 4 Appendix A - CV
 
@@ -59,3 +60,9 @@ https://content.wisestep.com/work-breakdown-structure-advantages-disadvantages/
 https://analysistabs.com/gantt-chart/advantages-disadvantages/
 
 https://project-management.com/advantages-and-disadvantages-of-gantt-charts/
+
+https://standout-cv.com/pages/software-developer-cv-example
+
+https://www.livecareer.co.uk/templates/cv/engineering/software-engineer-template
+
+https://www.monster.co.uk/career-advice/article/software-developer-cv-example
