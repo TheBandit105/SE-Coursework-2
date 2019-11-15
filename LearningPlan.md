@@ -38,7 +38,7 @@ A WBS displays the objective and the sub-tasks in a hierarchal manner to see whi
 
 #### 2 Charts
 
-![alt text](img/UoR Computer Science with IY WBS (FINAL).vpd.png)
+![alt text](SE_Coursework_2/UoR Computer Science with IY WBS (FINAL).vpd.png)
 
 For the WBS, I used a software called Visual Paradigm as that software allowed for the automatic formatting of the nodes of the WBS and the space to create the WBS in. I initially used the software called Planhammer to create my WBS, but I found that this software was very difficult to use and was not user-friendly at all.
 I used a software called Office Timeline to create my Gantt Chart as it was quite easy to use and you could set the beginning date at any point in time, even after the start date had been passed. Like before, I had used Planhammer to create my WBS, but the software did not allow me to go to the original start date for the degree I was doing and it only allowed me to start on the current day.
